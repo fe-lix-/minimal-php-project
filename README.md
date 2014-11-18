@@ -10,4 +10,4 @@ Requirements
 Usage
 -----
 
-    composer create-project fe-lix-/minimal-php-project
+    composer create-project felixdelval/minimal-php-project
