@@ -10,4 +10,6 @@ Requirements
 Usage
 -----
 
-    composer create-project felixdelval/minimal-php-project
+Just enter this line with ```MYPROJECT``` being the name of the directory of the new project :
+
+    composer create-project felixdelval/minimal-php-project MYPROJECT
