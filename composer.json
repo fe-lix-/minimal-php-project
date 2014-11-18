@@ -1,5 +1,5 @@
 {
-    "name": "fe-lix-/minimal-php-project",
+    "name": "felixdelval/minimal-php-project",
     "description": "A minimal php project with just PSR-4, phpunit & behat!",
     "require": {
         "php": ">=5.3.0"
